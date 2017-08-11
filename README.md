@@ -6,7 +6,7 @@ _by @cosminlupu_
 
 _Tested only with a Samsung R1 speaker_
 
-* **GitHub:** <https://github.com/cosminlupu/to-ynab>
+* **GitHub:** <https://github.com/cosminlupu/samsung-multiroom>
 
 ## Current features
 * Get mute status
