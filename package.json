@@ -13,6 +13,14 @@
     "node": ">=6.0.0",
     "homebridge": ">=0.2.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cosminlupu/samsung-multiroom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cosminlupu/samsung-multiroom/issues"
+  },
+  "homepage": "https://github.com/cosminlupu/samsung-multiroom#readme",
   "dependencies": {
     "request": "^2.81.0",
     "xml-js": "^1.3.2"
