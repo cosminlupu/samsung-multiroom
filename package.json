@@ -1,6 +1,6 @@
 {
   "name": "samsung-multiroom",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Wrapper for API that allows controlling Samsung Multiroom speaker",
   "main": "index.js",
   "author": "Cosmin Lupu",
